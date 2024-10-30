@@ -1,11 +1,11 @@
-package JenkinsSecond;
+package JenkinsFirst;
 
 import org.testng.annotations.Test;
 
-public class Trial2 {
+public class TrialTest {
 
 	@Test()
-	public void run3() {
+	public void run2() {
 		System.out.println("Trial2");
 	}
 }

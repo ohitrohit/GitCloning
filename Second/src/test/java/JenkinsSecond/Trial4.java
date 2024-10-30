@@ -2,10 +2,10 @@ package JenkinsSecond;
 
 import org.testng.annotations.Test;
 
-public class Trial2 {
+public class Trial4 {
 
 	@Test()
-	public void run3() {
+	public void run4() {
 		System.out.println("Trial2");
 	}
 }
